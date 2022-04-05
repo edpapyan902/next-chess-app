@@ -3,7 +3,7 @@
 ## [Demo Video](https://drive.google.com/file/d/1fBfefG6TP_iRtIyGvhL5_v9ePL8rGmky/view)
 ### Built with Next.Js, Firebase for Auth, TailwindCSS, Socket.IO
 #### Hosted on Vercel, Socket.IO (Node.js) server hosted on Heroku
-##### Websocket Server Repo https://github.com/aimanjaffer/chess-websocket-server
+##### Websocket Server Repo https://github.com/edpapyan902/chess-websocket-server.git
 ---
 User Stories Covered:
 1) A user should be able to challenge another player to a game by typing their username and pressing a send request button.
